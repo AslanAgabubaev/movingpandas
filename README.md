@@ -13,10 +13,7 @@
 [![pyOpenSci](https://tinyurl.com/y22nb8up)](https://github.com/pyOpenSci/software-review/issues/18)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 
-[![SWUbanner](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://github.com/vshymanskyy/StandWithUkraine/blob/main/docs/README.md)
 
-
-<img align="right" src="https://movingpandas.github.io/movingpandas/assets/img/movingpandas.png">
 
 MovingPandas is a Python library for movement data exploration and analysis.
 
